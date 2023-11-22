@@ -1,0 +1,38 @@
+{
+  "name": "shades-of-coffe",
+  "displayName": "shadesOfCoffe",
+  "description": "Designed with colors focused on the visual but not too tiring, plus touches of mint, chocolate, coffee and m&m's.",
+  "publisher":"shadesOfBuntu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/17030752/shades-of-coffe"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "17030752",
+    "shades of coffe",
+    "shadesOfCoffe",
+    "shades-of-coffe",
+    "coffe",
+    "mint",
+    "chocolate",
+    "brown"
+  ],
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shades of Coffe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shades of Coffe-color-theme.json"
+      }
+    ]
+  }
+}
